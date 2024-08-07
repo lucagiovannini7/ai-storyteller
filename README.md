@@ -7,5 +7,5 @@ A work-in-progress project on LLM stylistics, to be presented as poster at DH 20
 * A [corpus](/generated-corpus) of GPT4-generated short stories in the style of the aforementioned writes.
 * The related Python [script](code/AI_storyteller_clean.ipynb) (work-in-progress).
 
-##Paper
+## Paper
 Giovannini, Luca, and Daniil Skorinkin (2024). "Authorial Mimicry by Large Language Models: A First Assessment". In: DH2024 Book of Abstracts. George Mason University, 2024 (forthcoming). 
